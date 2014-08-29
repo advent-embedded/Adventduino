@@ -1,0 +1,14 @@
+
+##############################################################
+atmega16.name=Adventduino-Atmega16@16MHZ
+
+atmega16.upload.using=usbasp
+atmega16.upload.protocol=usb
+atmega16.bootloader.low_fuses=0xEF
+atmega16.bootloader.high_fuses=0xC8
+
+atmega16.build.mcu=atmega16
+atmega16.build.f_cpu=16000000L
+atmega16.build.core=arduino:arduino
+atmega16.build.variant=mega16
+##############################################################
