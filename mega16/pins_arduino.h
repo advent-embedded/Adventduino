@@ -1,12 +1,11 @@
-/**
-  pins_arduino.h - Pin definition functions for Arduino for ATmega 16
-
+/**  pins_arduino.h - Pin definition functions for Arduino for ATmega 16
+  For Adventduino Platform Board
+  
+ @Compiled by: Advent Embedded <www.adventembedded.com>
+ 
   Based on the code from the following places
-  - Alternate core - http://www.avr-developers.com/corefiles/index.html
   - Arduino - http://www.arduino.cc/
-
-  @Compiled by: Advent Embedded <www.adventembedded.com>
-
+  -https://github.com/sudar/arduino-extra-cores
 */
 
 #ifndef Pins_Arduino_h
